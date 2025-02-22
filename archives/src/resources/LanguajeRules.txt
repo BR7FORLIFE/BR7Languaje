@@ -1,0 +1,37 @@
+1. Reglas del lenguaje 
+
+--> declaracion de variables: 
+
+<nombre_variable>       :            <tipo de dato>          =            <valor>;
+
+    __nombre__     ⬆️identificador    __tipoDato__   ⬆️identificador    __value__
+
+
+--> tipos de datos: 
+
+* Entero
+* Flotante
+* Cadena
+* Booleano
+
+
+--> entrada y salida de datos
+
+* imprimir(""); //imprimir mensajes en pantalla
+* entrada("");
+
+
+--> tipos de objetos: 
+
+* __valueIO__ // objeto de tipo input / output
+* __TypeVariable__ // objeto de tipo variables
+
+
+--> expresiones
+
+📌 Resumen General
+    Operación	Resultado en la mayoría de lenguajes
+    String + int	Concatenación ("25" → "Edad: 25")
+    int + int	Suma (10 + 5 = 15)
+    int + boolean	Suma (10 + true = 11)
+    String + boolean	Concatenación ("Estado: true")
